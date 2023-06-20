@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/Yellow" /> <!-- @color/red를 통해 red 색상 참조 -->
+    <size
+        android:width="10dp"
+        android:height="10dp"
+        />
+</shape>
