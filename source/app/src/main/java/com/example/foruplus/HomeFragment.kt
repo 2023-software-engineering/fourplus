@@ -55,6 +55,7 @@ class HomeFragment : Fragment() {
         buttonEdit = view.findViewById(R.id.buttonEdit)
         buttonDelete = view.findViewById(R.id.buttonDelete)
 
+
         buttonEdit.visibility = View.GONE
         buttonDelete.visibility = View.GONE
 
